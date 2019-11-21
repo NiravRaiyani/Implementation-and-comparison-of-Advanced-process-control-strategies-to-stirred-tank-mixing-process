@@ -4,7 +4,7 @@ This is an implementation of Linear Quadratic Regulator (LQR), Minimum Principle
 
 
 
-## Folder Information:
+## Folder Contents :
 * ```LQR``` : Contains the implimentation of Linear Quadratic Regulator(Implimentation) with lenearized system equation around a fix steady state.
 * ```Nonlinear_LQR``` : Contains the implimentation of LQR with actual non-linear system equations.
 * ```MINIMUM_PRINCIPLE``` : Contains the MATLAB code for implimentation of Minimum Principle with actual non-linear system equations with terminal time t_f = 8.
