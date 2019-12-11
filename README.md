@@ -8,7 +8,7 @@ This is an implementation of Linear Quadratic Regulator (LQR), Minimum Principle
 * ```LQR``` : Contains the implimentation of Linear Quadratic Regulator(Implimentation) with lenearized system equation around a fix steady state.
 * ```Nonlinear_LQR``` : Contains the implimentation of LQR with actual non-linear system equations.
 * ```MINIMUM_PRINCIPLE``` : Contains the MATLAB code for implimentation of Minimum Principle with actual non-linear system equations with terminal time t_f = 8.
-* ```MPC``` : It has two sub-folders, Approch1 - with long prediction horizon and Approch2 - with terminal constraint. 
+* ```Model Predictive Control``` : It has two sub-folders, Approch1 - with long prediction horizon and Approch2 - with terminal constraint. 
 
 
 
