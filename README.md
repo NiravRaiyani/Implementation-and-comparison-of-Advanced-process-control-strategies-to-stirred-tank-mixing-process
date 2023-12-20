@@ -1,4 +1,4 @@
-# Implementation-and-comparison-of-Advanced-process-control-to-stirred-tank-mixing-process
+# Implementation-and-comparison-of-Advanced-process-control-strategies-to-stirred-tank-mixing-process
 This is an implementation of Linear Quadratic Regulator (LQR), Minimum Principle and Model Predictive Control(MPC) to stirred tank mixing process. Please refer to [Report.pdf](Report.pdf) for the detailed information. The repository contains the MATLAB code and a detailed report explaining the implementation. 
 ![](assets/mixing.PNG)
 
